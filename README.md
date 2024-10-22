@@ -119,7 +119,8 @@
                 </div>
             </section>
 
-            <section class=”carrossel”>
+            <section class="carrosel">
+            
               <h2 class="carrossel__titulo">Mais vendidos</h2>
               <div class="swiper">
 

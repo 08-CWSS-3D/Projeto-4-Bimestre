@@ -71,7 +71,7 @@
             
                   <div class="swiper-wrapper">
               
-                    <div class="swiper-slide"><img src="img/Apachekafka.svg"
+                   <div class="swiper-slide"><img src="img/ApacheKafka.svg"
                         alt="Livro sobre apache kafka e spring boot da Alura Livros"></div>
                     <div class="swiper-slide"><img src="img/Liderança.svg"
                         alt="Livro sobre liderança em design design da Alura Livros"></div>
